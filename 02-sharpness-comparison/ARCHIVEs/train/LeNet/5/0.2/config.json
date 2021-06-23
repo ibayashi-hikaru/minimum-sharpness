@@ -1,0 +1,12 @@
+{
+  "snapshot": "snapshot/05/",
+  "archive": "ARCHIVEs/train/LeNet/5/0.2",
+  "seed": 1601885781,
+  "core": 5,
+  "model": "LeNet",
+  "ratio": 0.2,
+  "num_epoch": 1000,
+  "batch_size": 1024,
+  "lr": 0.01,
+  "decay": 0.0001
+}

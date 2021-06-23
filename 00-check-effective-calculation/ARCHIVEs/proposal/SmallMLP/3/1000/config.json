@@ -1,0 +1,8 @@
+{
+  "snapshot": "snapshot/02/",
+  "archive": "ARCHIVEs/proposal/SmallMLP/3/1000",
+  "core": 2,
+  "seed": 47,
+  "num_data": 1000,
+  "model": "SmallMLP"
+}

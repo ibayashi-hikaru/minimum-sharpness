@@ -1,0 +1,8 @@
+{
+  "snapshot": "snapshot/05/",
+  "archive": "ARCHIVEs/proposal/SmallCNN/9/100",
+  "core": 5,
+  "seed": 40,
+  "num_data": 100,
+  "model": "SmallCNN"
+}

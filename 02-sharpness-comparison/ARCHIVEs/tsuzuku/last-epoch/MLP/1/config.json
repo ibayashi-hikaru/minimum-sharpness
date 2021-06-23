@@ -1,0 +1,11 @@
+{
+  "snapshot": "snapshot/05/",
+  "archive": "ARCHIVEs/tsuzuku/last-epoch/MLP/1",
+  "core": 5,
+  "seed": 0,
+  "model": "MLP",
+  "batch_size": 4096,
+  "lr": 0.001,
+  "param_dir": "ARCHIVEs/train/MLP/1",
+  "selection": "last-epoch"
+}

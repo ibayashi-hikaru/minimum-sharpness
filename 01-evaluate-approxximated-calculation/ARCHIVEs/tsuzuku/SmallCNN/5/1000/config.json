@@ -1,0 +1,9 @@
+{
+  "snapshot": "snapshot/05/",
+  "archive": "ARCHIVEs/tsuzuku/SmallCNN/5/1000",
+  "core": 5,
+  "seed": 52,
+  "num_data": 1000,
+  "num_sample": 10000,
+  "model": "SmallCNN"
+}

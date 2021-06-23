@@ -1,0 +1,12 @@
+{
+  "snapshot": "snapshot/07/",
+  "archive": "ARCHIVEs/train/MLP/2/0.4",
+  "seed": 1601880604,
+  "core": 7,
+  "model": "MLP",
+  "ratio": 0.4,
+  "num_epoch": 3000,
+  "batch_size": 1024,
+  "lr": 0.1,
+  "decay": 0.0001
+}

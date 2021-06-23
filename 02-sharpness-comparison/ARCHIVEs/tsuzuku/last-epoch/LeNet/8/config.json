@@ -1,0 +1,11 @@
+{
+  "snapshot": "snapshot/04/",
+  "archive": "ARCHIVEs/tsuzuku/last-epoch/LeNet/8",
+  "core": 4,
+  "seed": 0,
+  "model": "LeNet",
+  "batch_size": 4096,
+  "lr": 0.001,
+  "param_dir": "ARCHIVEs/train/LeNet/8",
+  "selection": "last-epoch"
+}

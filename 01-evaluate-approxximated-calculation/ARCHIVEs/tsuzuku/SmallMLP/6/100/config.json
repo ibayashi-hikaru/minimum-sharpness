@@ -1,0 +1,9 @@
+{
+  "snapshot": "snapshot/02/",
+  "archive": "ARCHIVEs/tsuzuku/SmallMLP/6/100",
+  "core": 2,
+  "seed": 33,
+  "num_data": 100,
+  "num_sample": 10000,
+  "model": "SmallMLP"
+}

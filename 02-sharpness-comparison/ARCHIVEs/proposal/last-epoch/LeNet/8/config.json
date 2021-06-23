@@ -1,0 +1,11 @@
+{
+  "snapshot": "snapshot/07/",
+  "archive": "ARCHIVEs/proposal/last-epoch/LeNet/8",
+  "core": 7,
+  "seed": 0,
+  "model": "LeNet",
+  "batch_size": 4096,
+  "lr": 0.001,
+  "param_dir": "ARCHIVEs/train/LeNet/8",
+  "selection": "last-epoch"
+}

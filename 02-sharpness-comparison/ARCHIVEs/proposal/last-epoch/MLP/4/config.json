@@ -1,0 +1,11 @@
+{
+  "snapshot": "snapshot/07/",
+  "archive": "ARCHIVEs/proposal/last-epoch/MLP/4",
+  "core": 7,
+  "seed": 0,
+  "model": "MLP",
+  "batch_size": 4096,
+  "lr": 0.001,
+  "param_dir": "ARCHIVEs/train/MLP/4",
+  "selection": "last-epoch"
+}
