@@ -1,5 +1,9 @@
 # Minimum Sharpness
 Pytorch implementaion of "Minimum Sharpness" proposed in [Minimum sharpness: Scale-invariant parameter-robustness of neural networks](https://arxiv.org/abs/2106.12612)
+
+# Results You will see
+<img src="https://github.com/ibayashi-hikaru/minimum-sharpness/blob/main/00-check-effective-calculation/VIEW/proposal-accuracy.png" height="300">            <img src="https://github.com/ibayashi-hikaru/minimum-sharpness/blob/main/02-sharpness-comparison/VIEW/model%3DLeNet/proposal-sharpness.png" height="300">
+
 # How to use
  
 
@@ -16,4 +20,4 @@ visualize/run.py
 ```
 
 # Ackonwlegement
-This code is mainly developed by [Taguo Hamaguchi](https://dblp.org/pid/202/1939.html)
+This code is mainly developed by [Taguo Hamaguchi](takuo-h.github.io)
