@@ -22,4 +22,4 @@ visualize/run.py
 ```
 
 # Acknowledgement
-This code is mainly developed by [Taguo Hamaguchi](takuo-h.github.io)
+This code is mainly developed by [Taguo Hamaguchi](https://takuo-h.github.io)
